@@ -6,5 +6,8 @@ https://nexter.netlify.app/ (hosted her by original course creator for a quick r
 
 The project focuses on some more advanced css and sass consepts in general, but notably features the following key features:
 
-- Advanced Grid-techniques
+- Advanced Grid-techniques...
+- grids within grids
+- small components using grids
+- repsonsive components without media queries
 -
