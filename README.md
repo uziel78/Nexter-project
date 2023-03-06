@@ -10,4 +10,6 @@ The project focuses on some more advanced css and sass consepts in general, but 
 - grids within grids
 - small components using grids
 - repsonsive components without media queries
+- images in grids
+- overlapping grid-items
 -
