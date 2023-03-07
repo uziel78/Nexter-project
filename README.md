@@ -15,3 +15,4 @@ The project focuses on some more advanced css and sass consepts in general, but 
 - vertical spanning in responsive layout using CSS Grid techniques
 - ::before and ::after as Grid items
 - grids and media queries
+- adding/removing rows and columns using media-queries
